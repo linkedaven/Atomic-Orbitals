@@ -1,0 +1,11 @@
+backend/out/
+backend/out-jar/
+out-jar/
+*.class
+
+# editors and systems
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
